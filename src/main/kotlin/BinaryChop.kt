@@ -11,7 +11,7 @@ fun chop(numberToSearch: Int, list: List<Int>,
         halfOfArray = halfOfArray/2 + lowerIndex
 
         if(list[halfOfArray] == numberToSearch) {
-            return list.indexOf(numberToSearch)
+            return halfOfArray
         } else {
             val leftSideResult = chop(numberToSearch, list, lowerIndex, halfOfArray)
             if(leftSideResult != -1) {

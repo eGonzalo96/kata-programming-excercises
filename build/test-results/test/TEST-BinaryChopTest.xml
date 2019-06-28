@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BinaryChopTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-28T17:43:31" hostname="Mac-mini-de-Erick.local" time="0.036">
+<testsuite name="BinaryChopTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-28T17:58:19" hostname="Mac-mini-de-Erick.local" time="0.035">
   <properties/>
-  <testcase name="testBinaryChop()" classname="BinaryChopTest" time="0.036"/>
+  <testcase name="testBinaryChop()" classname="BinaryChopTest" time="0.035"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
